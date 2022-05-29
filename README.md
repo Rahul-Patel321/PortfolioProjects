@@ -6,4 +6,5 @@ technology.
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
+![Projects](https://user-images.githubusercontent.com/98198570/170853314-cf3a25fd-e28d-4603-a427-aa6aa0e566cd.png)
 
